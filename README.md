@@ -9,7 +9,7 @@
 
 I am a senior software engineer and traveler. I love programming, speaking and traveling.
 
-As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
+As a senior software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
 
 <img align="right" alt="GIF" src="/img/coding.gif?raw=true" width="380" height="280" />
   
