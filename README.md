@@ -7,7 +7,7 @@
 
 ### Glad to see you here! &nbsp;
 
-I am a full-stack software engineer and traveler. I love programming, speaking and traveling.
+I am a senior software engineer and traveler. I love programming, speaking and traveling.
 
 As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
 
@@ -19,7 +19,7 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 - 👨🏻‍💻 I’m currently working on something cool;
 - 🚀 I’m currently learning something new;
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: contact@yahyalazaar.me;
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/yahyalazaar)
 - 📝 [Resume](#).
 
 </br></br>
